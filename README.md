@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Vladimir Yeghiazaryan
+- 👀 I’m interested in data science and economics relating to international trade and finance
+- 🌱 I’m currently learning Recurrent neural networks (RNNs) and their use cases in the field
+- 💞️ I’m looking to collaborate on academic/business research 
+- 📫 How to reach me:
+    - phone: +374 99 310304
+    - email: vladimir.y2000@gmail.com
